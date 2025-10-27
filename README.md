@@ -13,11 +13,25 @@ Project is created with:
 * Lorem version: 12.3
 * Ipsum version: 2.33
 * Ament library version: 999
-	
+
+## Features
+
+## Screenshots
+
 ## Setup
 To run this project, install it locally using npm:
-
 ```
+
+##Usage
+
+## Project Status
+
+## Room for imporvement
+
+## Acknowledgements
+
+## Contact
+
 $ cd ../lorem
 $ npm install
 $ npm start
