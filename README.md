@@ -20,17 +20,18 @@ Project is created with:
 
 ## Setup
 To run this project, install it locally using npm:
-```
 
-##Usage
+## USage
 
-## Project Status
+## Project status
 
-## Room for imporvement
+## Room for improvement
 
-## Acknowledgements
+## Acknowledgement
 
 ## Contact
+```
+
 
 $ cd ../lorem
 $ npm install
