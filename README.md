@@ -4,7 +4,13 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-
+* [Screenshots](#screenshots)
+* [Setup](#setup)
+* [Usage](#usage)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
 ## General info
 This project is simple Lorem ipsum dolor generator.
 	
