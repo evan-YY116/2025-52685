@@ -46,6 +46,7 @@ LED Animation: Flashes an image four times in a cycle to indicate prompt feedbac
 Audio Prompt: A buzzer produces a melody to enhance the interactive experience.
 
 ## Screenshots
+<img width="1288" height="822" alt="fcf4d875cb85edd251e66103496029d0" src="https://github.com/user-attachments/assets/e14b1c09-1e73-4c7f-bd64-ed9dc54c2156" />
 
 ## Setup
 The hardware and environment required for this project are as follows:
